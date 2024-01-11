@@ -1,5 +1,5 @@
 # Login
-![Login](img/Login.png)
+![Login](img/Login.png) 
 # Register
 ![Register](img/Register.png)
 # Home
